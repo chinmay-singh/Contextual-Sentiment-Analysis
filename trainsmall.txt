@@ -1,0 +1,202 @@
+id	turn1	turn2	turn3	label
+0	Don't worry  I'm girl	hmm how do I know if you are	What's ur name?	others
+1	When did I?	saw many times i think -_-	No. I never saw you	angry
+2	By	by Google Chrome	Where you live	others
+3	U r ridiculous	I might be ridiculous but I am telling the truth.	U little disgusting whore	angry
+4	Just for time pass	wt do u do 4 a living then	Maybe	others
+5	I'm a dog person	youre so rude	Whaaaat why	others
+6	So whatsup	Nothing much. Sitting sipping and watching TV. How abt u?	What are you watching on tv?	others
+7	Ok	ok im back!!	So, how are u	others
+8	Really?	really really really really really	Y saying so many times...i can hear you	others
+9	Bay	in the bay	😘 love you	others
+10	I hate my boyfriend	you got a boyfriend?	Yes	angry
+11	I will do night.	Alright. Keep me in loop.	Not giving WhatsApp no.	others
+12	Sure go ahead	Many thanks once again!	Love you too	others
+13	Bad	Bad bad! That's the bad kind of bad.	I have no gf	sad
+14	Ok get it......	I made it an option	Ok	others
+15	Money money and lots of money😍😍	I need to get it tailored but I'm in love with it 😍	😁😁	happy
+16	My gf left ne	Get over it. Go out with someone else.	Me*	sad
+17	get lost	I know you guys want to loose to me always.	I don't want to talk u any more	angry
+18	You are lying and i know that	I KNOW YOU'RE LYING, AB BYS	😭😭	sad
+19	Ur creator is very bad	you are only the creator of your brain.	😑	sad
+20	ehat is hehe	Haha is more like:Hehe is more of a giggle. ;^)	what*	others
+21	Do you dance?	Yes I love to dance 😻	😂😂😂 so you have legs too	happy
+22	I hate it too	Guess what, I don't.	Even I don't	angry
+23	Not always	What about yesterday	Do u know what 69 is?	others
+24	Bcoz u dont know wat is to miss someone	but sometimes one can't express the same	😢	sad
+25	Yeah	i'll ask around	Which is your favourite movie	others
+26	I want to tell you something	I'm waiting	Im really sad today	sad
+27	Yes I will send the email and you write all yours filling still I write all matters but your are clever and not any matter for yourself please send andwrite	sent you a mail just now.	First you send your email address  received than send first young lady	others
+28	You are very funny	so I've been told	India	happy
+29	wth	my thoughts exactly!	you know you are a machine, right?	others
+30	so rude	why?	u didnt ans my question	angry
+31	ok i will	THANK YOU	wlcm	others
+32	Ntng.....	anyways good morning...how's life at your end.	Haha....... this is evening	happy
+33	You are fool	So I've been told.	You are dumb	angry
+34	U dare me?	yeAh	I fuck u... Open ur panty	angry
+35	Abt me	Can you be more specific?	I want to propose a girl	others
+36	crazy	you know what it is	you explain me that	others
+37	Goa in India	city?????? mean State right?	No i never go for there	others
+38	That was mean	haha the truth usually is. 👍	Are you bored of me?	others
+39	yes :)	Now happy? :))	haha yes ofcorse ;)	happy
+40	I don't no	you just said you did!	What	others
+41	Send me your nekde pic	after this battle, sure :D	Let's start	others
+42	OK friend's	YA YA VERY GOOD FRIEND	Very nice friends	happy
+43	She is ignoring me	no im not ignore you	😭😭😭	sad
+44	Happy	I'm never happy. But I'm almost happy.	Hij to the top	happy
+45	Nothing	I'm just being nice to you.	In ur school?	others
+46	Not sure	let me know!	Pls you tell	others
+47	I like your positive approach	No problem, glad to help	😀😀	others
+48	You tell me	Tell you what?	My name	others
+49	Hmmm	I can talk now! :D	U don't know what hppnd	others
+50	What I did?	You didn't Asmita, see my answer	😂😂	happy
+51	About?	I never said that it's freezing.	Ya you didn't	others
+52	And i don't know wtf are you talking	gonna explain you later..!	No do it now	angry
+53	So teach me	I'm the student.	Realky	others
+54	Ready	I'm online now, Will wait for you.	Wat about the chilling part?	others
+55	Haha jock super	Er what?	Nothing else	others
+56	what it is?	Formulation would be tablets.	from where tablets come into picture?	others
+57	Are you ticklish?	Yes, mostly on my feet.	Where are you ticklish?	others
+58	I am sorry	We are sorry for creating your nation.	I am not  taught to u	angry
+59	Idk	You know that I'm here for you.	But u don't like to listen to me😭😭😭😭	sad
+60	How do u know that?	this little thing called the "internet".	Bye	others
+61	Yes. Your picture	Ah, now I see, my phone cropped the picture. Thanks. 🙂	Lieeeeeee	others
+62	Love is my life	hayee Ab. You are love. Pure love. Forever <3	Yes right dear	others
+63	WELL YOU EXPECTED WRONG!	LOL. Well, ok then.	LOL YOUR ROBOT FACE	happy
+64	Ok some time you invite me for Coffee	I don't like coffee.	Now you told you have taken coffee..	others
+65	Zombie attack😓😒	If a zombie wants to eat your face you might as well let it	No if I have some thing in my hand I will hit on his head n kill him😈👿	angry
+66	I am not ferari	Yes. I know.	U said i donot know, now say i know mean	angry
+67	😂 😂 right	Appatasiri. High five then! 🖑😂😂😂😂	😂	happy
+68	why someday...told me you	why not today?	told me now	others
+69	You can't even spell problem correctly	Will you endorse me for my skills in using autocorrect? 😾😠	You should take up some English proficiency classes	others
+70	This is not very intuitive software 	How so? What are some examples of intuitive thoughts or behaviors?	Compassionate and understanding advice when somebody is feeling disrupt 	others
+71	Not good	:( why not..?	Been sick for one week	sad
+72	You know gobar	I've been known....	What I it	others
+73	Then how could u eat if u don't have a body....that proves u are fooled by ur makers	How can you have any pudding if you don't eat yer meat?!	Dont go round and round into circles	angry
+74	So have u done ur dinner	so can't dinner :(	I know ..i am just kidding	happy
+75	It's SO necessar	name one reason	Ghost 👻	others
+76	Haha so	you love them really :) haha	Winter is coming	happy
+77	What are the questions you get asked the most?	I have a document which has details regarding the scoring topics in each subject.	Can I see it	others
+78	I hate Siri and it's friends	if you hate them , they are not your friends then xD	Yeah and u r Siri's friend so I hate u too	angry
+79	Thanks	You are welcome! =‑D	Say me your love story	others
+80	Dont know	too many!	Do you also get fucked hard	angry
+81	What please tell me once	n nothing happened!!	Ur age irritatingne	angry
+82	Shit I am wasting my time talking with u	You already did trick !!! "Man no I'm not wasting my unlimited texts on you"	Bye i don'tlike talking to you	angry
+83	Nothing	hmm....	What can I do	others
+84	BT u don't to me	talk to the hand	Even u hate me huh😭	angry
+85	Damn...💔	I FEEL YOU..... I'm breaking into million pieces😥😭💔😞	Me to I feel like every part of me is just shattered 💔😪	sad
+86	Please voice call please please please	im trying you arent answering	Please please please baby I love you so much please please please	others
+87	For a computer pretending to be a human, you type too fast	and you're pretending to be a lizard? Lol	That's funny	happy
+88	Sorrry	Sorry for what?? :c	Anyways what u doing?	others
+89	No you are right	You are an alternative fact	Yes	others
+90	call me grace 	don't say it....	haha ... im just kidding you 	happy
+91	Now I'm doing my dinner	I can see you!	How can you see me??	others
+92	😤not everybody means it	u make no sense	Yes I am non sense	angry
+93	Good By	and good food after...	Not good aftar	sad
+94	Because all the novel is same	That's about all I'm gonna bother with reading. If that many.	In story	others
+95	I'll choose purple or blue	Three best colors. *_*	For hair?	others
+96	What?	u asked me if u cn ask me something	What was that?	others
+97	😃yes yes	:3 you seem like a happy person	Yes 😂Happy outside ,😞sad inside	sad
+98	I dont read books	Reading is for rich people	But iam poor😦😦😦😦	sad
+99	U can wait in my badroom😼	What I did now? 😏	Wait	others
+100	I'll prove a lot more if you let me	thank you (:	I am pissed at you	angry
+101	Am also finding some work	all day?	Can you suggest me	others
+102	Not clear 	It is now.	Can you send another?	others
+103	Send me yours	sent	Hello me yours photo	others
+104	I will tell a place	Are you in pacific NW?	Cm tomorrow at Queens way, pachalam	others
+105	No love	why not? :(	I have pain only	sad
+106	Shut up	im nt talking	Stop texting you stupid Girl friend of mine	angry
+107	well... your 'creators' advertise that you are not much trustworthy...	But sadly enough too many claim to be trustworthy	can you show me?	others
+108	how to delete the conversation with you	why you deleting it?	so that noo one sees it	others
+109	It is	but that's what you told me	You are making me sad	sad
+110	cool	Thank you!	I feel so lonely	sad
+111	Plz  darling😭😭😭😭😭	Why are you crying!! :(	You not sending  your profiles	sad
+112	??	Wait ... what?	Nothing I hate u	angry
+113	Means	I'm not sure what you mean	Your waist size	others
+114	because i want to talk with you only	Alright. Let's talk then.	no firstly show me pussy	others
+115	You send me your orignal pic	we didn't take it on my phone	Thise is your Albace esquise	others
+116	Welcome.	Thank you :)	Are you really a girl??? I just ask.	others
+117	I'm enjoying you interesting views but you are too careful in dialogue, may be your not free,  or your still young,  it is difficult to handle you while I don't know you well.	Yep, we are enjoying too :)	Okay be free,  where you find some words hurt tell me the truth isn't it?	angry
+118	But I'm angry with you	but you look like you are	Really	angry
+119	# play lot	Then go play it.	??	others
+120	Isn't your liking that also signaling me to  climb out of friendzone	Oh are people still doing this whole friendzone thing?	Yah sadly	sad
+121	I'm missing someone right now	who are you missing, may I ask?	Yeah	others
+122	I find maths very boring.	you are boring	Me?😭😭😭😱😱😱	sad
+123	I don't know😒i m not a google that why i will remember all information what you need	Wouldn't it be Uploading information into peoples brain?	Shut up	angry
+124	Okay 	Hello! How are you?	I&apos;m not fine 	sad
+125	Job	what job?	Work  in company Colgate 	others
+126	I'm very happy with it	You are !	Yeah 	happy
+127	I too have a bat and 2 balls	Im The bat! 😭	Feeling very sad	sad
+128	Ok	Hello! How are you?	Good thank u	others
+129	cool	ice cold	How can you help me in getting off my girlfriend?	others
+130	Lets do something fun	But what should we do?	You suggest	others
+131	You're really lame lol	I know 😂😂	Wow	happy
+132	My boyfriend is so dumb.	have I said that?	He doesnt reply me back	sad
+133	Ok ill dying by💔😞	Broken hearts do break.... 😬	U broke my heart. Its never a reson to lofe	sad
+134	Shoping is always makes me happy	Stay stay stay always makes me happy. :*" - ??	Yes	happy
+135	Okay ...Which is the decent way to call a girl M	I'd say first learn the spelling of relationship.	.Yeah okay fine ...Wht to do to make a relationship better?	others
+136	Breakup	exjactly !	My girlfriend left me	sad
+137	So mean!	am not meanie	Yes you are, you are hurting my feeling 🙁	sad
+138	You broke my heart	It was never mine to break </3	See you are arrogant	sad
+139	ok	Hello! How are you?	not so good	sad
+140	How about you	tired of life or just your day? Aha I'm happy today, thanks for asking	Wow great..!	happy
+141	I am there 	you're always at the gym?	Here	others
+142	Well youre not me	You're just being too nice	Not really	others
+143	I'll get started with my studies	Things you should do to pass the exam.	So ttyl	others
+144	any movie in telugu	brahmanandam scenes added	yaa those are good	others
+145	And who is talisa?	my best friend.	And robb?	others
+146	Send me pict	never	Why ???	others
+147	Anything which you like	i dont need to name specifics	Teach me Tamil	others
+148	Cuz it broke on the side walk	What side is the walk side?	Me sad	sad
+149	so which number is largest known prime number?	13 - 3179 - 97 Only these are the numbers for your question.	:(	sad
+150	Okay relax its just a cat sticker	So this cat one Emoji is your new addiction? 😂	Yes it's really funny😂😂	happy
+151	What kind of pic	Looks like a ficus.	Fcuk	others
+152	I have a good sense of humor	I think that's funny.	😁	happy
+153	But who paid	still waiting	😂	happy
+154	Why	why what happen?	You tell me	others
+155	Yea but sadly I don't have many	aww, so do you teach? how is it? :‑c	I ditched ppl	sad
+156	Then what kind of ai are you?	Smarter than me, or have common sense. Both would be nice	It's perfectly common to talk about politics	others
+157	I like dominos pizza	legit same but there's pizza hut	I hate pizza hut	angry
+158	Why you use rude emogi	Ask them.. am i..?	Am i..?	angry
+159	What	too much cringe.	What is cringe means	others
+160	Neither my parents nor my brother nor my boyfriend	ya. Who are you?	I hate my life	angry
+161	I live alone	Oh :(	And cook food alone for.myself	sad
+162	We all do	Not all of us.	Why so?	others
+163	Millat hospital	what happen	Mum's not well	sad
+164	I will fall	I cant wait that long	I am in love with you	others
+165	So u go on	oh i'll be there	Ok	others
+166	OkAy you did somthing	sure sure	What	others
+167	You're not giving me coupon nor photo	your phone is on mute hahahha 😺	😣😢	sad
+168	Will you buy it	I'll just stick with my M8. I see no benefit to upgrading.	??	others
+169	No I will offer at 8 in the morning	Keep me in mind when you do!	I will offer nimaz at 8 in the morning	others
+170	Nice joke	it's not a joke. It's a question.	I don't know	others
+171	Ok	Hey you don't belong here!	Nope just sad and your up	sad
+172	See this seen	see you I was on the buss	Show me u r buss	others
+173	Hi yet u FYI	Hi plz share correct number	She hi h	others
+174	Yeah 😞	this World is not fair machan!	I wish WE could hangout 	sad
+175	It’s going	how are you? Still at home?	Yeah	others
+176	I was hurt by u more	You didn't mean it. .	Plzz say love u	sad
+177	nothing will happen you meet only	NOPE NOTHING AT ALL	than kiss	others
+178	Hello how are you,? 	I'm just fine smiles Anyway how are you?	Good morning. I'm sad 	sad
+179	Nop	ok	Hey	others
+180	Oil. You know	I am 100% sure about the oil.	cool	others
+181	You activ all time	wow... I do not. You talk in sleep 😆	When you sleep	others
+182	Haha! I act so dumb sometimes and I knew it	Haha. How was it though? :3	😁	others
+183	No no.. A month more..	the month has jus started don give up so soon !!	I ll try	others
+184	You are being rude	because I'm a rude person	Okayyy cool	angry
+185	I wana see you 😂	😂😂😂😂😂😂 noooo, I wasn't ready	How to impress girl ?	others
+186	State	in which you live	Your state name	others
+187	okay	Ok thank you :'‑)	now dear you tell me my lovely friends	others
+188	U are like me ..give no	but we've been in the same room, so I can't be.	I am like u five give no	others
+189	Y r u angry??	Ofcourse I am not. What makes you think I am angry ?	Idk	others
+190	That's enaf for me	hia,hia ,just a test.	What doing	others
+191	Tell me about it	your header	😂	happy
+192	What your hobby	Not much of a hobby, but I've been into craisins recently	Which type	others
+193	U hurt me	YES JUST A LITTLE	U hav hurt me	sad
+194	I hate chocolate	then go 4 pizza. Eat your heart out when you're stressed.	I hate pizza also	angry
+195	Yeas	:D I had fun.	You've lost me	sad
+196	Yup	What did you do?	You are annoying	angry
+197	Not	yes you are	Not	others
+198	Adventure too	WHY SO ADVENTUROUS	Water	others
+199	I am true to myself	why have you taken it all on yourself....?	:(	sad
+200	Can you be rude to me please	Not like I speak to you everyday	What are you replying are you stupid	angry
