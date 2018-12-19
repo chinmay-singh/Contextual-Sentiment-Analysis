@@ -40,11 +40,11 @@ class Tree:
             if(tokens[i] == self.open):
                 break
         if(i!=0):
-            self.label=emotion2label[tokens[:i]]
+            self.label1=emotion2label[tokens[:i]]
         tokens=tokens[i:]
         self.root = self.parse(tokens)
         # get list of labels as obtained through a post-order traversal
-        self.labels = to_categorical(get_labels(self.root))
+        self.labels = (get_labels(self.root))
         self.num_words = len(self.labels)
 
     def parse(self, tokens, parent=None):
