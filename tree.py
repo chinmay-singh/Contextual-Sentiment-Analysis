@@ -40,7 +40,10 @@ class Tree:
             if(tokens[i] == self.open):
                 break
         if(i!=0):
-            self.label1=emotion2label[tokens[:i]]
+            lab =''
+            for j in range(i):
+                lab +=tokens[j]
+            self.label1=emotion2label[lab]
         tokens=tokens[i:]
         self.root = self.parse(tokens)
         # get list of labels as obtained through a post-order traversal
@@ -118,6 +121,17 @@ def get_labels(node):
 def clearFprop(node, words):
     node.fprop = False
 
+def binarize_labels(trees):
+    def binarize_node(node, _):
+        if node.label<2:
+            node.label = 0
+        elif node.label ==2:
+            node.label = 1
+        elif node.label>2:
+            node.label = 2
+    for tree in trees:
+        leftTraverse(tree.root, binarize_node, None)
+        tree.labels = get_labels(tree.root)
 
 def loadTrees(dataSet='train'):
     """
@@ -127,7 +141,7 @@ def loadTrees(dataSet='train'):
     print("Loading %s trees.." % dataSet)
     with open(file, 'r') as fid:
         trees = [Tree(l) for l in fid.readlines()]
-
+    binarize_labels(trees)
     return trees
 
 def simplified_data(num_train, num_dev, num_test):
@@ -161,15 +175,3 @@ def simplified_data(num_train, num_dev, num_test):
 
     return train, dev, test
 
-
-def binarize_labels(trees):
-    def binarize_node(node, _):
-        if node.label<2:
-            node.label = 0
-        elif node.label ==2:
-            node.label = 1
-        elif node.label>2:
-            node.label = 2
-    for tree in trees:
-        leftTraverse(tree.root, binarize_node, None)
-        tree.labels = get_labels(tree.root)
